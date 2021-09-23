@@ -15,6 +15,7 @@ EMNLP 2021.
 ### Instructions
 * Please refer to the [Fairseq examples](https://github.com/pytorch/fairseq/blob/main/examples/translation/README.md)
 for dataset pre-processing.
+* Run `pip install -e .` to install locally.
 * Use `bash run.sh` to run the code. 
 
 ### Note
